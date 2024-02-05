@@ -1,5 +1,3 @@
 - 👋 Hi, I’m jahnavi pushpalatha Yerroju
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning Django
-- 📫 How to reach me jahnaviy2001@gmail.com
-
+A Graduate Student at Wright State University majoring Computer Engineering.
+Technology: Python,Html,Django,Embedded Systems,R
