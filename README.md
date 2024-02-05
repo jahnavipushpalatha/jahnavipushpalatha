@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jahnavi pushpalatha Yerroju
+- 👋 Hi, I’m jahnavi pushpalatha Yerroju.
 
 
 
